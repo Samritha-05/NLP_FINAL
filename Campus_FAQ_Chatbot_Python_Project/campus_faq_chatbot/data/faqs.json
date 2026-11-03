@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "intent": "admission_process",
+    "question": "How can I apply for admission?",
+    "answer": "Applications are submitted through the college admissions office or the official admissions portal. Check the current admission notification for eligibility, dates and required documents.",
+    "keywords": [
+      "admission",
+      "apply",
+      "application",
+      "join",
+      "enrol"
+    ],
+    "source": "Admissions Handbook"
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "intent": "eligibility",
+    "question": "What are the eligibility requirements for undergraduate courses?",
+    "answer": "Eligibility depends on the programme. Applicants should check the programme-specific eligibility criteria in the latest prospectus or contact the admissions office.",
+    "keywords": [
+      "eligibility",
+      "qualification",
+      "undergraduate",
+      "UG",
+      "criteria"
+    ],
+    "source": "Academic Regulations"
+  },
+  {
+    "id": 3,
+    "category": "Academics",
+    "intent": "academic_calendar",
+    "question": "Where can I find the academic calendar?",
+    "answer": "The academic calendar is published by the academic office. It contains semester dates, holidays, examination periods and important academic events.",
+    "keywords": [
+      "calendar",
+      "semester",
+      "holidays",
+      "schedule",
+      "dates"
+    ],
+    "source": "Academic Regulations"
+  },
+  {
+    "id": 4,
+    "category": "Examinations",
+    "intent": "exam_timetable",
+    "question": "When will the examination timetable be released?",
+    "answer": "The examination timetable is announced by the examination cell through official college communication channels. Please refer to the latest notice for confirmed dates.",
+    "keywords": [
+      "exam",
+      "examination",
+      "timetable",
+      "schedule",
+      "test"
+    ],
+    "source": "Examination FAQ"
+  },
+  {
+    "id": 5,
+    "category": "Examinations",
+    "intent": "exam_results",
+    "question": "How can I check my examination results?",
+    "answer": "Results are generally published through the student portal or examination office. Use your official student credentials and contact the examination cell if you face access issues.",
+    "keywords": [
+      "result",
+      "marks",
+      "grade",
+      "score",
+      "student portal"
+    ],
+    "source": "Examination FAQ"
+  },
+  {
+    "id": 6,
+    "category": "Placements",
+    "intent": "placement_eligibility",
+    "question": "Who is eligible to participate in campus placements?",
+    "answer": "Placement eligibility is determined by the placement cell and may vary by recruiter, programme and academic criteria. Check the latest placement policy for the applicable rules.",
+    "keywords": [
+      "placement",
+      "eligible",
+      "recruitment",
+      "campus interview",
+      "criteria"
+    ],
+    "source": "Placement FAQ"
+  },
+  {
+    "id": 7,
+    "category": "Placements",
+    "intent": "placement_training",
+    "question": "Does the college provide placement training?",
+    "answer": "Placement preparation may include aptitude practice, communication sessions, technical preparation and mock interviews. Contact the placement cell for the current schedule.",
+    "keywords": [
+      "training",
+      "aptitude",
+      "mock interview",
+      "placement preparation"
+    ],
+    "source": "Placement FAQ"
+  },
+  {
+    "id": 8,
+    "category": "Hostel",
+    "intent": "hostel_facility",
+    "question": "How can I apply for hostel accommodation?",
+    "answer": "Contact the hostel administration to obtain the current application form, availability information, eligibility conditions and fee details.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "room",
+      "residence",
+      "apply"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 9,
+    "category": "Hostel",
+    "intent": "hostel_rules",
+    "question": "What are the hostel rules?",
+    "answer": "Hostel residents must follow the current hostel handbook, including entry timings, visitor rules, discipline requirements and safety instructions. Obtain the latest copy from the hostel office.",
+    "keywords": [
+      "hostel",
+      "rules",
+      "timing",
+      "visitors",
+      "discipline"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 10,
+    "category": "Transport",
+    "intent": "bus_routes",
+    "question": "Where can I find college bus routes?",
+    "answer": "Bus routes, stops and timings are maintained by the transport office. Contact that office for the latest route chart because schedules may change.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "stop",
+      "timing"
+    ],
+    "source": "Transport FAQ"
+  },
+  {
+    "id": 11,
+    "category": "Fees",
+    "intent": "fee_payment",
+    "question": "How can I pay my college fees?",
+    "answer": "Use only the payment methods officially approved by the college. The accounts office or student portal can provide the current payment procedure, due dates and receipt details.",
+    "keywords": [
+      "fees",
+      "fee",
+      "payment",
+      "pay",
+      "accounts"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 12,
+    "category": "Library",
+    "intent": "library_hours",
+    "question": "What are the library working hours?",
+    "answer": "Library hours can vary during examinations, holidays and regular working days. Please check the latest library notice or contact the librarian for confirmed timings.",
+    "keywords": [
+      "library",
+      "hours",
+      "timing",
+      "books",
+      "working"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 13,
+    "category": "General",
+    "intent": "contact_office",
+    "question": "How can I contact the college office?",
+    "answer": "Use the contact details published on the official college website or contact the main office during working hours.",
+    "keywords": [
+      "contact",
+      "phone",
+      "email",
+      "office",
+      "address"
+    ],
+    "source": "College FAQ"
+  },
+  {
+    "id": 14,
+    "category": "Academics",
+    "intent": "attendance",
+    "question": "What is the minimum attendance requirement?",
+    "answer": "The applicable attendance requirement is defined by the current academic regulations. Please consult the latest regulations or your department office before making attendance-related decisions.",
+    "keywords": [
+      "attendance",
+      "minimum",
+      "percentage",
+      "absent",
+      "leave"
+    ],
+    "source": "Academic Regulations"
+  },
+  {
+    "id": 15,
+    "category": "Academics",
+    "intent": "course_registration",
+    "question": "How do I register for courses?",
+    "answer": "Course registration instructions and deadlines are communicated by the academic office or department. Follow the current student portal procedure and verify your registered courses.",
+    "keywords": [
+      "course",
+      "registration",
+      "register",
+      "subjects",
+      "electives"
+    ],
+    "source": "Academic Regulations"
+  },
+  {
+    "id": 16,
+    "category": "Student_support",
+    "intent": "scholarship",
+    "question": "Are scholarships available for students?",
+    "answer": "Scholarship availability and eligibility depend on the scheme and current notifications. Contact the scholarship section or student welfare office for verified details.",
+    "keywords": [
+      "scholarship",
+      "financial aid",
+      "fee concession",
+      "funding"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 17,
+    "category": "Student_support",
+    "intent": "medical_support",
+    "question": "Where can I get medical assistance on campus?",
+    "answer": "For campus medical support, contact the designated health centre or student welfare office. In an emergency, contact local emergency services immediately.",
+    "keywords": [
+      "medical",
+      "health",
+      "doctor",
+      "emergency",
+      "first aid"
+    ],
+    "source": "Student Handbook"
+  },
+  {
+    "id": 18,
+    "category": "Academics",
+    "intent": "bonafide_certificate",
+    "question": "How can I request a bonafide certificate?",
+    "answer": "Submit a certificate request through the student services or administrative office, following the current application and approval procedure.",
+    "keywords": [
+      "bonafide",
+      "certificate",
+      "document",
+      "request"
+    ],
+    "source": "Student Handbook"
+  }
+]
